@@ -26,5 +26,5 @@ https://api.rawg.io/api/games?platforms=4&genres=action&publishers=354
 -   Console.log the length of `results`.
 
 ```
-https://cat-fact.herokuapp.com/facts
+https://noroff.herokuapp.com/v1/cat-facts/facts
 ```
